@@ -1,0 +1,11 @@
+.filterInput {
+    width: 200px;
+    background-color: #fff;
+    border-radius: 5px;
+    border-color: aliceblue;
+    background-color: #fff;
+}
+
+.label {
+    font-weight: 300;
+}

@@ -1,0 +1,27 @@
+.contactList {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.contactName {
+    font-weight: 300;
+
+}
+
+.contactItem {
+    display: flex;
+    gap: 20px;
+    margin: 7px 0;
+}
+
+.contactBtn {
+    margin: 0;
+    padding: 5px 15px;
+    width: 130px;
+    display: inline-block;
+    border-radius: 5px;
+    border-color: aliceblue;
+    background-color: #fff;
+    cursor: pointer;
+}
